@@ -1,0 +1,8 @@
+﻿  Tranfrom.cpp
+e:\opengl\include\glm\core\func_common.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opengl\include\glm\core\func_common.inl : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opengl\include\glm\core\func_integer.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opengl\opengl\opengl\tranfrom.cpp(147): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\opengl\opengl\opengl\tranfrom.cpp(149): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\opengl\opengl\opengl\tranfrom.cpp(156): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  OpenGL.vcxproj -> E:\opengl\OpenGL\Debug\OpenGL.exe
