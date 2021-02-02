@@ -36,6 +36,18 @@
     <ClCompile Include="Tranfrom.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3DRotate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LookAt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UnlimitMove.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h">
@@ -50,6 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="wall.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="awesomeface.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="container.jpg">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
